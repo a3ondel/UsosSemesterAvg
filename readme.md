@@ -2,6 +2,7 @@
 Dzieki temu skryptowi mozesz sprawdzic srednia ocen na kazdy odbyty przez ciebie semestr
 
 # PARAMETERS
+required:
 
 '--username',  '-u'       : login to polsl, without @...'
 '--password',  '-p'       : password to polsl
