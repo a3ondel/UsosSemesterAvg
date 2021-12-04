@@ -1,4 +1,4 @@
-# Usos Semester average counter
+# Usos Semester average helper
 Dzieki temu skryptowi mozesz sprawdzic srednia ocen na kazdy odbyty przez ciebie semestr
 
 # USAGE
