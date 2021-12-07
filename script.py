@@ -173,5 +173,3 @@ else:
 
 
 print("\noverall avg: " + str(round(overallAvg,4)))
-
-
