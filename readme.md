@@ -1,5 +1,6 @@
 # Usos Semester average helper
-Dzieki temu skryptowi mozesz sprawdzic srednia ocen na kazdy odbyty przez ciebie semestr
+~~Dzieki temu skryptowi mozesz sprawdzic srednia ocen na kazdy odbyty przez ciebie semestr~~ 
+This script doesn't work anymore.
 
 # PARAMETERS
 required:
